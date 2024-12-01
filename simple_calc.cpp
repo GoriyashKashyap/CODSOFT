@@ -1,5 +1,5 @@
 #include <iostream>
-#include <iomanip> // For better formatting
+#include <iomanip> 
 using namespace std;
 
 class Calculator {

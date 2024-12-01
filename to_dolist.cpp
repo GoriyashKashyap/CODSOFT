@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#include <iomanip> // For better formatting
+#include <iomanip> 
 #include <string>
 using namespace std;
 
@@ -32,7 +32,7 @@ void displayTasks(const vector<Task>& tasks) {
 void addTask(vector<Task>& tasks) {
     string description;
     cout << "Enter the task description: ";
-    cin.ignore(); // Clear the input buffer
+    cin.ignore(); 
     getline(cin, description);
     tasks.push_back({description, false});
     cout << "Task added successfully!\n";
