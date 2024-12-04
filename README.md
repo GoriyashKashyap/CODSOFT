@@ -105,7 +105,7 @@ A console-based application to manage books in a library.
 ## **How to Run the Programs**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/CODSOFT.git
+   git clone https://github.com/GoriyashKashyap/CODSOFT.git
 
 ## **Project Highlights**
 - **Interactivity**: Every project is designed with user-friendly interfaces.
